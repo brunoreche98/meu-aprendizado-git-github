@@ -1,0 +1,6 @@
+- O que é Git e Github
+- Principais comandos no terminal
+- Criar um repositório, o que é staged e commit
+- Clonar projetos do Github
+- O que é merge
+- O que são as branchs
